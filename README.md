@@ -1,2 +1,2 @@
 # machine_learning
-machine learning algorithm practice codes
+machine learning algorithms practice codes
